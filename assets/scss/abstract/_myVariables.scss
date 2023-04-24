@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
+
+
+//* Bootstrap themes color
+$primary:       #0f7d7e ;
+$secondary:     #fffdd1;
+$success:       #76b5a0;
+$info:          #ff7575;
+$warning:       #f2cc67;
+$danger:        #d33649;
+$light:         #f9fadc;
+$dark:          #2b2823;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+
+//* FONTS
+
+$font-family-sans-serif: 'Poppins', sans-serif;
