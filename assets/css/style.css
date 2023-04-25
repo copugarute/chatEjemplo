@@ -10727,4 +10727,12 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.myThumbnail {
+  width: 20%;
+}
+
+.myThumbnail__lista {
+  width: 20%;
+}
+
 /*# sourceMappingURL=style.css.map */
